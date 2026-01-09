@@ -38,7 +38,7 @@ const abdelali = {
     education: {
         school: "1337 Coding School (42 Network)",
         level: 11.42,
-        program: "ALX Software Engineering"
+        program: "Software Engineering"
     },
     expertise: ["Low-Level Programming", "Web Dev", "DevOps", "System Design"],
     currentlyLearning: ["System Design", "Cloud Architecture", "Advanced Algorithms"],
